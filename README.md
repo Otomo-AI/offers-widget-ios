@@ -1,0 +1,1 @@
+# offers-widget-ios
